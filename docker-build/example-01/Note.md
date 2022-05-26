@@ -27,6 +27,12 @@
   >
   > 此处使用ENV的作用是： 当出现镜像需要永久保存外部传入参数变量的这种场景，可以把ARG 的变量赋值给ENV 的变量，实现永久动态保存；
 
+* 参考文档：
+
+> https://docs.docker.com/engine/reference/commandline/build/
+
+
+
 
 # 
 ### COPY
